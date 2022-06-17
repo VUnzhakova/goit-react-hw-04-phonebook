@@ -84,7 +84,7 @@ export default function App() {
           />
         </>
       ) : (
-        <Notification message="Contact list is empty" />
+        <Notification message="The list is empty. Add new contacts :)" />
       )}
     </div>
   );
